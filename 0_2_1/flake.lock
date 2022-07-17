@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-anano-master": "src-anano-master"
+        "src-anano-0_2_1": "src-anano-0_2_1"
       }
     },
-    "src-anano-master": {
+    "src-anano-0_2_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1657854526,
-        "narHash": "sha256-92rUNqC0wC/1iQfUj+TWCKlbj4nJDB7PAPy33Js6LfE=",
+        "lastModified": 1657852303,
+        "narHash": "sha256-qxNJFb9f/q3JhyNZwTuXnCmXj2VhNIlq4YbZEdvXwMc=",
         "owner": "ire4ever1190",
         "repo": "anano",
-        "rev": "dcf353b20ed0b87bf91d2ccef74b1bf523a92f8c",
+        "rev": "2534c8fc60f463fd7f9573ce235c0c07f632af45",
         "type": "github"
       },
       "original": {
         "owner": "ire4ever1190",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.2.1",
         "repo": "anano",
         "type": "github"
       }

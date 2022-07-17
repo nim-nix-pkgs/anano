@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1658015159,
-        "narHash": "sha256-B82EFdPLmv5Kix1BL/mVSHKh+8INYVC1RCz3/sdfXZk=",
+        "lastModified": 1658017791,
+        "narHash": "sha256-GXfgVSd/NrTCdSLezxRMmVZJx+fvc3JdRkccgJL1+i0=",
         "owner": "nim-nix-pkgs",
         "repo": "anano",
-        "rev": "4ff56e8a45821302350e9dbb9f00f45c41400e45",
+        "rev": "de1795d04d21a29f82eb009ba88ecd9f8d01b332",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1658015159,
-        "narHash": "sha256-B82EFdPLmv5Kix1BL/mVSHKh+8INYVC1RCz3/sdfXZk=",
+        "lastModified": 1658017791,
+        "narHash": "sha256-GXfgVSd/NrTCdSLezxRMmVZJx+fvc3JdRkccgJL1+i0=",
         "owner": "nim-nix-pkgs",
         "repo": "anano",
-        "rev": "4ff56e8a45821302350e9dbb9f00f45c41400e45",
+        "rev": "de1795d04d21a29f82eb009ba88ecd9f8d01b332",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "0_2_1",
-        "lastModified": 1658015159,
-        "narHash": "sha256-B82EFdPLmv5Kix1BL/mVSHKh+8INYVC1RCz3/sdfXZk=",
+        "lastModified": 1658017791,
+        "narHash": "sha256-GXfgVSd/NrTCdSLezxRMmVZJx+fvc3JdRkccgJL1+i0=",
         "owner": "nim-nix-pkgs",
         "repo": "anano",
-        "rev": "4ff56e8a45821302350e9dbb9f00f45c41400e45",
+        "rev": "de1795d04d21a29f82eb009ba88ecd9f8d01b332",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658015159,
-        "narHash": "sha256-B82EFdPLmv5Kix1BL/mVSHKh+8INYVC1RCz3/sdfXZk=",
+        "lastModified": 1658017791,
+        "narHash": "sha256-GXfgVSd/NrTCdSLezxRMmVZJx+fvc3JdRkccgJL1+i0=",
         "owner": "nim-nix-pkgs",
         "repo": "anano",
-        "rev": "4ff56e8a45821302350e9dbb9f00f45c41400e45",
+        "rev": "de1795d04d21a29f82eb009ba88ecd9f8d01b332",
         "type": "github"
       },
       "original": {
@@ -205,11 +205,11 @@
     "src-anano-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1655714148,
-        "narHash": "sha256-5YrCXIIsIb/qHc7our5XV7fynxQ1Tl6izZzc+aadzgI=",
+        "lastModified": 1657854526,
+        "narHash": "sha256-92rUNqC0wC/1iQfUj+TWCKlbj4nJDB7PAPy33Js6LfE=",
         "owner": "ire4ever1190",
         "repo": "anano",
-        "rev": "fb7e035e9f18cba681c5cb4d770281e6961d539e",
+        "rev": "dcf353b20ed0b87bf91d2ccef74b1bf523a92f8c",
         "type": "github"
       },
       "original": {
